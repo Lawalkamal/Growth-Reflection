@@ -43,15 +43,15 @@
 
    .What study methods or resources can help you improve?
    
-   **Answer: Physical classes can help me improve my studies and skill because it is more interactive than just doing things alone .**
+    **Answer: Physical classes can help me improve my studies and skill because it is more interactive than just doing things alone .**
    
    .What can support you or can help you learn more effectively ?
   
-   **Answer: Interactive coding platforms, Using documents and tutorials, and Keep practicing .**
+    **Answer: Interactive coding platforms, Using documents and tutorials, and Keep practicing .**
   
    .What would happen if you don't take action towards your goals?
   
-   **Answer:Maybe i wouldn't be a resident in the tech world.**
+    **Answer:Maybe i wouldn't be a resident in the tech world.**
    
 ## Will: What action will you take next?
 
@@ -61,15 +61,15 @@
 
    .What steps are you ready to start with right now?
 
-   **Answer: To start being regular with the courses and resources i'm been given .**
+    **Answer: To start being regular with the courses and resources i'm been given .**
 
    .How will you track your progress ?
   
-   **Answer: Writing down my daily or weekly actions, reflections, and outcomes. This helps me see patterns and stay mindful of my progress. and digital tools are useful too.**
+    **Answer: Writing down my daily or weekly actions, reflections, and outcomes. This helps me see patterns and stay mindful of my progress. and digital tools are useful too.**
   
    .What challenges might you face, and how will you handle them?
   
-   **Answer: Honestly, i don't know. But i'm prepared for any challenge that might come forth .**
+    **Answer: Honestly, i don't know. But i'm prepared for any challenge that might come forth .**
 
   
   
